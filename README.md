@@ -1,4 +1,4 @@
-# AGRICULTURE-BASED-PROJ
+# Crop Recommendation System (ML + Flask Web App)
 Description:
 Built an intelligent crop recommendation system that predicts the most suitable crop to grow based on key soil and climate parameters. The system uses a Random Forest model trained on real agricultural datasets, and is deployed using a Flask web application with a clean, responsive UI.
 
